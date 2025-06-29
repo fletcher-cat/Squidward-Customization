@@ -5,6 +5,8 @@ To download, go here: https://github.com/fletcher-cat/Squidward-Customization/re
 
 Click the .zip file and extract. The 'assets' folder and the .exe file must be in the same folder.
 
+![image](https://github.com/user-attachments/assets/b548e728-5c40-4198-85e7-2fdbecbb377d)
+
 Then you simply run the .exe and let Squidward handle the rest.
 
 Based off this post: https://www.reddit.com/r/thomastheplankengine/comments/1ln7okg/squidward_helps_you_theme_your_desktop/
