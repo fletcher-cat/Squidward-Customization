@@ -3,7 +3,7 @@ Squidward Helps You Customize Your Windows Installation
 
 To download, go here: https://github.com/fletcher-cat/Squidward-Customization/releases
 
-Click the .zip file and extract.
+Click the .zip file and extract. The 'assets' folder and the .exe file must be in the same folder.
 
 Then you simply run the .exe and let Squidward handle the rest.
 
